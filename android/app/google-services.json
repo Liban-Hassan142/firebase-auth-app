@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956174671507",
+    "project_id": "ica13-firebase-auth",
+    "storage_bucket": "ica13-firebase-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956174671507:android:700fd10f3d07cccd1af766",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnPMJk7ifD743NlzIYeA6Z8rKsuSfdL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
